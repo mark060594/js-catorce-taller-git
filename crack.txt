@@ -1,2 +1,4 @@
 primer linea de conflictiva master
+primer linea de conflictiva real
 segunda linea de conflictiva master
+segunda linea de conflictiva real
