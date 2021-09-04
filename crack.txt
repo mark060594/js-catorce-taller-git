@@ -1,2 +1,2 @@
-primer linea de conflictiva
-segunda linea de conflictiva
+primer linea de conflictiva real
+segunda linea de conflictiva real
